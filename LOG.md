@@ -44,3 +44,28 @@
 ## Notes & Reflections
 
 Starting my 100 Days of Code challenge! Excited to build consistency and improve my coding skills while creating a visible GitHub contribution history. The green boxes are motivating! 🎯
+
+
+### Day 2: March 20, 2026
+
+**Time Spent:** 1.5 hours
+
+**Focus:** Building a responsive CSS layout and starting HTML structure for a personal portfolio website
+
+**What I Learned:**
+- Flexbox vs Grid: Understanding when to use each layout method
+- - Mobile-first responsive design approach
+  - - CSS media queries for different screen sizes
+   
+    - **Code/Project:** Created a basic portfolio site with navigation bar, hero section, and about section. Implemented responsive grid for project showcase. Used semantic HTML5 elements throughout.
+   
+    - **Tomorrow's Plan:** Continue portfolio development - add contact form with validation, implement smooth scrolling navigation, and refactor CSS for better organization
+   
+    - ---
+
+    ## Streak Statistics
+
+    - **Current Day:** 2/100
+    - - **Longest Streak:** 2 days
+      - - **Total Days Completed:** 2
+        - - **Last Updated:** March 20, 2026
