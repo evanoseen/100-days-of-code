@@ -33,40 +33,45 @@
 
 ---
 
-## Streak Statistics
-- **Current Day:** 1/100
-- **Longest Streak:** 1 day
-- **Total Days Completed:** 1
-- **Last Updated:** March 19, 2026
-
----      
-
-
-## Notes & Reflections
-
-Starting my 100 Days of Code challenge! Excited to build consistency and improve my coding skills while creating a visible GitHub contribution history. The green boxes are motivating! 🎯
-
-
 ### Day 2: March 20, 2026
-
 **Time Spent:** 1.5 hours
-
 **Focus:** Building a responsive CSS layout and starting HTML structure for a personal portfolio website
 
 **What I Learned:**
-- Flexbox vs Grid: Understanding when to use each layout method
-- - Mobile-first responsive design approach
-  - - CSS media queries for different screen sizes
-   
-    - **Code/Project:** Created a basic portfolio site with navigation bar, hero section, and about section. Implemented responsive grid for project showcase. Used semantic HTML5 elements throughout.
-   
-    - **Tomorrow's Plan:** Continue portfolio development - add contact form with validation, implement smooth scrolling navigation, and refactor CSS for better organization
-   
-    - ---
+- Flexbox vs Grid and when to use each
+- Mobile-first responsive design approach
+- CSS media queries for different screen sizes
 
-    ## Streak Statistics
+**Code/Project:** Created a basic portfolio site with navigation bar, hero section, and about section. Implemented responsive grid for project showcase using semantic HTML5.
 
-    - **Current Day:** 2/100
-    - - **Longest Streak:** 2 days
-      - - **Total Days Completed:** 2
-        - - **Last Updated:** March 20, 2026
+**Tomorrow's Plan:** Continue portfolio development, add contact form with validation and smooth scrolling navigation
+
+---
+
+### Day 20: April 7, 2026
+**Time Spent:** 1.5 hours
+**Focus:** Building a dark-themed daily habit tracker web app from scratch
+
+**What I Learned:**
+- How to use localStorage to persist data across browser sessions
+- Structuring JavaScript state management without a framework
+- Building streak tracking logic with date comparisons
+- Styling dark UI components to match a GitHub-inspired aesthetic
+
+**Code/Project:** Built a fully functional habit tracker (day-20/index.html) with add/delete habits, daily check-off, streak counting, and a live progress bar. All data saved in localStorage so it persists between visits.
+
+**Tomorrow's Plan:** Add a weekly view to visualize which days each habit was completed, similar to a mini GitHub contribution graph
+
+---
+
+## Streak Statistics
+- **Current Day:** 20/100
+- **Longest Streak:** 20 days
+- **Total Days Completed:** 20
+- **Last Updated:** April 7, 2026
+
+---
+
+## Notes & Reflections
+
+Starting my 100 Days of Code challenge! Excited to build consistency and improve my coding skills while creating a visible GitHub contribution history. The green boxes are motivating!
