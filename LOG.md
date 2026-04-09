@@ -64,11 +64,27 @@
 
 ---
 
+### Day 21: April 8, 2026
+**Time Spent:** 1.5 hours
+**Focus:** Building a GitHub-style habit heatmap to visualize the last 30 days of habit completion
+
+**What I Learned:**
+- How to generate dynamic date ranges in JavaScript using the Date object
+- Using CSS Grid with aspect-ratio to build a responsive heatmap layout
+- How to calculate streaks and completion rates from stored date arrays
+- Tooltip positioning with CSS pseudo-elements
+
+**Code/Project:** Built a habit heatmap app (day-21/index.html) that shows a 30-day contribution-style grid for each habit. Includes streak tracking, completion rate, mark-done toggle, and hover tooltips showing the date. Data persists in localStorage.
+
+**Tomorrow's Plan:** Build a simple expense tracker with category breakdown and a bar chart using vanilla JS canvas
+
+---
+
 ## Streak Statistics
-- **Current Day:** 20/100
-- **Longest Streak:** 20 days
-- **Total Days Completed:** 20
-- **Last Updated:** April 7, 2026
+- **Current Day:** 21/100
+- **Longest Streak:** 21 days
+- **Total Days Completed:** 21
+- **Last Updated:** April 8, 2026
 
 ---
 
